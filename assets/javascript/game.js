@@ -92,6 +92,6 @@ $(document).ready(function() {
         else if (playerTotal > randNum) {
             loss();
         }
-    }
+    })
     
 })
